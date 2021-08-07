@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+	<title>Vorlage</title>	
+	<meta charset="utf-8">	
+	<meta name="description" content="Die Beschreibung des Inhalts der Seite">
+	<meta name="robots" content="index, follow">		
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="canonical" href="https://meine-seite.at/">
+	<link rel="icon" href="bilder/favicon.png" type="image/png">
+    <!-- 	css -->
+		<link rel="stylesheet" href="css/whereever.css">
+    <link rel="stylesheet" href="">
+</head>
+<body>
+
+
+
+<!-- Bootstrap js -->
+<script src="js/jquery-3.5.1.slim.min.js"></script>
+<script src="js/bootstrap.bundle.min.js"></script>
+
+<!--- nur JS -->
+<script> Magic code and function here </script>
+
+</body>
+</html>
